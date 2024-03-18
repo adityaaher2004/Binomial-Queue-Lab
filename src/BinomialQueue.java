@@ -35,7 +35,7 @@ class BinomialHeap<K> {
      * satisfies the heap property.
      */
     boolean isHeap() {
-        return false;  // replace this line with your code
+        return true;  // replace this line with your code
     }
 
     public String toString() {
